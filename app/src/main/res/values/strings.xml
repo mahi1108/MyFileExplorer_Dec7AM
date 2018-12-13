@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFileExplorer_Dec7AM</string>
+    <string-array name="storage">
+        <item>Phone Storage</item>
+        <item>MemoryCard/SdCard</item>
+    </string-array>
+
+</resources>
