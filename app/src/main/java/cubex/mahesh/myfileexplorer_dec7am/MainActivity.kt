@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
         lview.setOnItemClickListener { adapterView, view, i, l ->
             if(isFirstTime == false) {
                 if (i == 0) {
-
+  // 
                     path = "/storage/emulated/0/"
                     file = File(path)
                     if(!file!!.exists()){
